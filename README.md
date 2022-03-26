@@ -9,7 +9,6 @@
 ```bash
 $ rmf -h
 rmf 1.0.0
-作者: 技安 <tgxz2000@gmail.com>
 删除指定路径下面的所有文件, 帮助输入 `-h`
 
 USAGE:
@@ -46,4 +45,4 @@ $ rmf -p /home/user/logs -d 0
 
 ## Author
 
-* EchoLi <Echo_AI#foxmail.com>
+* EchoAI <Echo_AI#foxmail.com>
